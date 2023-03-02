@@ -1,24 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on Learning DSA<br>👯 I’m looking to collaborate on Building AI<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning DSA & Java<br>💬 Ask me about C
+<h1 align="center">Hi 👋, I'm Rearden Rajkumar</h1>
+<h3 align="center">A motivated and inspired software engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reardenrk&label=Profile%20views&color=0e75b6&style=flat" alt="reardenrk" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RK Readen) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reardenrk" alt="reardenrk" /></a> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ReardenRK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReardenRK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReardenRK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on **Guitar Simulator**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ReardenRK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **CS61B DSA Course**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+- 👯 I’m looking to collaborate on **Building AI for automation**
 
----
-[![](https://visitcount.itsvg.in/api?id=ReardenRK&icon=2&color=0)](https://visitcount.itsvg.in)
+- 🤝 I’m looking for help with **Blockchaining with Java**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **C Language and LIfe**
+
+- 📫 How to reach me **reardenrk@gmail.com**
+
+- ⚡ Fun fact **I actually love solving problems**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reardenrk&show_icons=true&locale=en&layout=compact" alt="reardenrk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reardenrk&show_icons=true&locale=en" alt="reardenrk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reardenrk&" alt="reardenrk" /></p>
